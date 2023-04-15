@@ -706,7 +706,7 @@ MonoBehaviour:
   timer: {fileID: 1328304734}
   message: {fileID: 157401285}
   foreground: {fileID: 1521536949}
-  phraseInterval: 4
+  phraseInterval: 8
   firstPhrase:
     text: 'The moon has always beckoned people with its light, awakening their dreams
       and fueling their imagination. '

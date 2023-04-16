@@ -708,11 +708,11 @@ MonoBehaviour:
   foreground: {fileID: 1521536949}
   phraseInterval: 8
   firstPhrase:
-    text: 'The moon has always beckoned people with its light, awakening their dreams
-      and fueling their imagination. '
+    text: 'The moon''s light has always beckoned people, awakening their dreams and
+      fueling their imagination. '
     duration: 2
   secondPhrase:
-    text: Its emptiness has shattered all their hopes.
+    text: 'All of their dreams were shattered by the lunar void. '
     duration: 2
   timerCoolDown: 10
 --- !u!1 &1165402305
